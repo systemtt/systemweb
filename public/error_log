@@ -1,0 +1,32 @@
+[18-Jan-2017 16:06:45 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/a5730432dc430a9b1fe3e51acb72a1ce on line 26
+[18-Jan-2017 16:07:00 UTC] PHP Parse error:  syntax error, unexpected ''/'' (T_CONSTANT_ENCAPSED_STRING) in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/a5730432dc430a9b1fe3e51acb72a1ce on line 26
+[18-Jan-2017 16:07:01 UTC] PHP Parse error:  syntax error, unexpected ''/'' (T_CONSTANT_ENCAPSED_STRING) in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/a5730432dc430a9b1fe3e51acb72a1ce on line 26
+[18-Jan-2017 16:07:32 UTC] PHP Parse error:  syntax error, unexpected ''/'' (T_CONSTANT_ENCAPSED_STRING) in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/a5730432dc430a9b1fe3e51acb72a1ce on line 26
+[18-Jan-2017 16:18:27 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: users' in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e:39
+Stack trace:
+#0 /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e(39): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/lodijoco/...', 39, Array)
+#1 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/lodijoco/...')
+#2 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/lodijoco/...', Array)
+#3 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home/lodijoco/...', Array)
+#4 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/sr in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:18:27 UTC] PHP Fatal error:  Call to a member function render() on a non-object in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:18:53 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:18:54 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:18:55 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:18:56 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:18:57 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:19:05 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:20:59 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:21:02 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:21:53 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:21:54 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:21:56 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:21:58 UTC] PHP Fatal error:  Call to undefined method stdClass::render() in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:31:37 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: users' in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e:39
+Stack trace:
+#0 /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e(39): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/lodijoco/...', 39, Array)
+#1 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): include('/home/lodijoco/...')
+#2 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/lodijoco/...', Array)
+#3 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home/lodijoco/...', Array)
+#4 /home/lodijoco/public_html/Trabajos/Tazart/vendor/laravel/framework/sr in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
+[18-Jan-2017 16:31:37 UTC] PHP Fatal error:  Call to a member function render() on a non-object in /home/lodijoco/public_html/Trabajos/Tazart/storage/framework/views/3a92ac8810fc3890d62192d49955337e on line 39
